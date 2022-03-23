@@ -61,7 +61,7 @@
 			},
 			{
 				"name": "Collective Rule",
-				"uniques": ["[+50]% Production when constructing [Worker] units [in capital]", "Free [Worker] appears"],
+				"uniques": ["[+1] population [in all cities]", "Free [Worker] appears"],
 				"requires": ["Republic"],
 				"row": 2,
 				"column": 1
