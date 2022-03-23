@@ -16,5 +16,14 @@
 		"attackSound": "horse"
 		//Conquistador should have no penalty attacking cities
 		//Ability to found new cities can only be used on a foreign continent that does not contain the Spanish capital.
+	},
+	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city", "Excess Food converted to Production when under construction",
+			"Requires at least [30] population"],
+		"hurryCostModifier": 20
 	}
 ]
